@@ -1,2 +1,2 @@
-<h1> Welcome to DevOps learning.. :) </h1>
+<h1> Hello World </h1>
 
