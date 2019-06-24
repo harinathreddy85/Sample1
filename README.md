@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-Update from 0000
+Update from 1234
